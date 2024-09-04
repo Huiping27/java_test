@@ -1,0 +1,4 @@
+Manifest-Version: 1.0 // Version of the manifest file, manifest files are used to provide addtional information about the project, is used by the Java Virtual Machine to determine which class to run.
+Created-By: 1.8.0_131 (Oracle Corporation) // Java version used to compl
+ ie the project
+
