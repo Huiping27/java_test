@@ -1,4 +1,4 @@
-//class.java
+//class.java- This program demonstrates a class with various components, such as varaibles,constructor,instance methods, static methods,a static block and the main method.
 public class MyClass {
     // Fields (Variables)
     private int instanceVar; // Instance variable
